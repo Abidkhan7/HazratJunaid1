@@ -379,7 +379,7 @@ def mafia():
                 clear()
                 print(logo)
                 print(logo)
-                os.system("rm -rf $HOME/HazratJunaid1'')
+                os.system("rm -rf $HOME/HazratJunaid1")
                 os.system("cd $HOME && git clone https://github.com/Abidkhan7/HazratJunaid1.git")
                 print (logo)
                 love("\033[1;96mCongratulation HazratJunaid1 Tool Has Been Installed Successfully")
